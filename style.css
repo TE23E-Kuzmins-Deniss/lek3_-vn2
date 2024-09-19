@@ -1,0 +1,50 @@
+img{
+    color: black;
+    height: 100px;
+    width: 150px;
+}
+container{
+    display: flex;
+    flex-direction: row;
+}
+
+body{
+    background-image: url(./img/ek.jpg);
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    background-color: lightblue;
+    color: rgb(228, 155, 168) ;
+    text-align: center;
+}
+h2{
+    background-color: purple;
+    color: rgb(68, 245, 68);
+}
+a{
+    color: white;
+    background-color: black;
+}
+ul{
+    color: black;
+}
+li{
+   color: black;
+}
+h3{
+    background-color: purple;
+    color: rgb(68, 245, 68);
+}
+h4{
+    background-color: purple;
+    color: rgb(68, 245, 68);
+}
+h5{
+    background-color: purple;
+    color: rgb(68, 245, 68);
+}
+p{
+    background-color: white;
+}
